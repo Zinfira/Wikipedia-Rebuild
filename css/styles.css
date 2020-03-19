@@ -4,6 +4,11 @@
   background-color: rgb(243, 239, 239);
 }
 
+.main-div {
+  width: 80%;
+  float: right;
+}
+
 
 img {
   float: left;
@@ -11,7 +16,6 @@ img {
 
 li {
   list-style-type: none;
-
 }
 
 ul {
@@ -20,10 +24,11 @@ ul {
   color: rgb(83, 83, 228)
 }
 
-ul2 {
+.ul2 {
   margin-left: 5px;
   padding-left: 5px;
   color: black;
+  list-style-type: round;
 }
 
 li2 {
@@ -31,8 +36,10 @@ li2 {
   list-style-type: round;
 }
 
-.my-class {
-  border: 4px red;
-
+.role {
+  width: 80%;
+  float: right;
+  margin-top: auto;
+  margin-right: 20px;
 }
 
