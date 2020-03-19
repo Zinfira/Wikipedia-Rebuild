@@ -1,0 +1,10 @@
+.sidebar {
+  width: 20%;
+  float: left;
+  background-color: gray;
+}
+
+p {
+  size: 10;
+}
+
