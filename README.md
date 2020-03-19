@@ -23,7 +23,7 @@ Works great. So well. Looks even better.
 
 ## Support and contact details
 
-If you run into any issues, contact me at  <c.pendleton.thomas@gmail.com>
+If you run into any issues, contact me at  <c.pendleton.thomas@gmail.com> or <zsafargalieva@gmail.com>
 
 ## Technologies Used
 
