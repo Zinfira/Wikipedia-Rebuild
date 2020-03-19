@@ -31,3 +31,8 @@ li2 {
   list-style-type: round;
 }
 
+.my-class {
+  border: 4px red;
+
+}
+
